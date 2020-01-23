@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Zry Lab Config
 
 You can use the [editor on GitHub](https://github.com/zrylab/fuck/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
